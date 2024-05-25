@@ -1,17 +1,17 @@
 [
   {
     "name": "home",
-    "src": "",
+    "src": "images/까마귀.jpg",
     "alt": "woman with glasses holding a tablet"
   },
   {
     "name": "about",
-    "src": "",
+    "src": "images/까마귀1.jpg",
     "alt": "gray abstract background"
   },
   {
     "name": "portfolio",
-    "src": "",
+    "src": "images/까마귀2.jpg",
     "alt": "desktop with books and laptop"
   }
 ]
